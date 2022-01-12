@@ -51,3 +51,5 @@ amqp.connect("amqp://localhost", function (error0, connection) {
     });
   });
 });
+
+console.log("On dev2");
